@@ -5,25 +5,26 @@
 ```
 make
 ```
+or you may use the compiled command from the bin subdirectory
 
 # Save/Add to archive
 
 ```
-./cstore add [-p password] archivename file
+bin/cstore add [-p password] archivename file
 ```
 
 # List items in archive
 
 ```
-cstore list archivename
+bin/cstore list archivename
 ```
 
 # Extract file from archive
 ```
-cstore extract [-p password] archivename file
+bin/cstore extract [-p password] archivename file
 ```
 
 # Delete file from archive
 ```
-cstore delete [-p password] archivename file
+bin/cstore delete [-p password] archivename file
 ```
