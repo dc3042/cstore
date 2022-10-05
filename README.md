@@ -1,12 +1,10 @@
-# cstore
+## Encrypted Archive Command
 
-Run
+# Compile files
 
 ```
 make
 ```
-
-to compile files
 
 # Save/Add to archive
 
